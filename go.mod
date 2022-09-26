@@ -1,4 +1,4 @@
-module github.com/bwalterssibel/go-chart/v2
+module github.com/bwalterssibel/go-chart
 
 go 1.15
 
