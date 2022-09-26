@@ -1,3 +1,7 @@
+Notice: This package is taken and modified from github.com/wcharczuk/go-chart to allow for better YAxis label alignment and hidden x ticks.
+The license and the rest of this readme remain unchanged as of 08/18/22 and the only files functionally modified are yaxis.go and xaxis.go.
+All example files have been removed.
+========
 go-chart
 ========
 [![CircleCI](https://circleci.com/gh/wcharczuk/go-chart.svg?style=svg)](https://circleci.com/gh/wcharczuk/go-chart) [![Go Report Card](https://goreportcard.com/badge/github.com/wcharczuk/go-chart)](https://goreportcard.com/report/github.com/wcharczuk/go-chart)
